@@ -61,7 +61,7 @@ export default function Project() {
                     href={project.link}
                     rel='noopener noreferrer'
                     target='_blank'
-                    className='text-red-500 font-bold hover:text-red-400'
+                    className='text-red-500 font-bold hover:text-red-400 text-xl'
                   >
                     View the Project{" "}
                     <span role='img' aria-label='right pointer'></span>
